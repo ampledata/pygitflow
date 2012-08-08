@@ -1,0 +1,15 @@
+pygitflow: Installs git-flow as a Python Package.
+
+https://github.com/ampledata/pygitflow
+
+Author
+======
+Greg Albrecht <gba@splunk.com>
+
+Copyright
+=========
+Copyright 2012 Splunk, Inc.
+
+License
+=======
+Apache License 2.0

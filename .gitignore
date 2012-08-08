@@ -1,0 +1,12 @@
+*.egg
+build/
+dist/
+output.xml
+nohup.out
+flake8.log
+*.py[co]
+cover/
+.coverage
+nosetests.xml
+*.egg-info
+pylint.log
